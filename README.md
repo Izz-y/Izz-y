@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabel de oliveira
 
-**`Desenvolvedora Front-End**
+**Desenvolvedora Front-End**
 
 Me chamo Isabel e estou começando minha carreira como programadora front-end. Sou fascinada por tecnologia e design, sempre buscando criar experiências digitais criativas e funcionais. Atualmente, estudo Desenvolvimento de Sistemas no SENAI.
 
